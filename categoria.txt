@@ -1,0 +1,10 @@
+Bebidas
+Carnes
+Condimentos
+Frutas
+Legumes
+Verduras
+Latcinios
+Frangos
+Frios
+Congeldos
